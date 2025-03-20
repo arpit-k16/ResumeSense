@@ -34,6 +34,8 @@ cd ResumeSense
 bash
 Copy code
 pip install streamlit PyPDF2 langchain_ollama
+
+
 3️⃣ Run the App
 bash
 Copy code
