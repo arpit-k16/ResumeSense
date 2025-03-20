@@ -14,6 +14,7 @@ Ollama LLM – AI-powered resume analysis
 PyPDF2 – Extracts text from PDF resumes
 Python – Backend processing
 📌 How It Works
+
 1️⃣ Upload your PDF resume
 
 2️⃣ AI extracts & analyzes key information
