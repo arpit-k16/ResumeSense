@@ -23,11 +23,13 @@ Python – Backend processing
 
 
 📥 Installation & Usage
+
 1️⃣ Clone the Repository
 bash
 Copy code
 git clone https://github.com/arpit-k16/ResumeSense.git  
 cd ResumeSense
+
 2️⃣ Install Dependencies
 bash
 Copy code
